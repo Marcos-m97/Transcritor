@@ -1,0 +1,26 @@
+# Ambiente Virtual
+.venv/
+.venv/*
+
+# Arquivos temporários do Python
+*.pyc
+*.pyo
+*.pyd
+_pycache_/
+*.log
+
+# Configurações específicas do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de transcrição
+*.txt
+
+# Cache e outras pastas ocultas
+.cache/
+.idea/
