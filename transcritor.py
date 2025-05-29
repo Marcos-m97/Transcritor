@@ -3,7 +3,7 @@ import sys
 import os
 
 # Caminho do arquivo (argumento ou padrão fixo)
-arquivo = sys.argv[1] if len(sys.argv) > 1 else r"C:\Users\marcos.martins\Downloads\[ACT- R] - Mapeamento do processo ELERA - 2024_12_18 13_58 GMT-03_00 - Recording.mp4"
+arquivo = sys.argv[1] if len(sys.argv) > 1 else r"C:\Users\User\Downloads\2025_05_07_20_08__Web Reposição 30 04_recording 1_d2be9b1b-164c-4599-aec9-d0a92ef88e69_recording.mp4"
 
 # Verifica se o arquivo existe
 if not os.path.exists(arquivo):
